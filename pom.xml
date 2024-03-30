@@ -7,7 +7,7 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
+	</parent> 
 	<groupId>com.myapp</groupId>
 	<artifactId>springboot_cicd_maven_one</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
